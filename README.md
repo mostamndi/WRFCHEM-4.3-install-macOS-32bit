@@ -51,7 +51,7 @@ Tested in macOS Catalina 10.15.7
 
 Built in 32-bit
 
-Tested with current available libraries on 03/15/2021
+Tested with current available libraries on 04/11/2021
 
 If newer libraries exist edit script paths for changes
 
